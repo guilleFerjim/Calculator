@@ -53,7 +53,5 @@ const styles = StyleSheet.create({
   },
   buttons: {
     flexDirection: 'row',
-    
-  },
-  
+  }
 });
